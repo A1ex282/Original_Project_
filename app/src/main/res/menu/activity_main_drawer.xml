@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/news"
+            android:title="@string/news" />
+        <!--android:icon="@drawable/ic_menu_camera"-->
+        <item
+            android:id="@+id/fik"
+            android:title="@string/fic"/>
+        <!--android:icon="@drawable/ic_menu_gallery" />-->
+        <item
+            android:id="@+id/raspisanie"
+            android:title="@string/raspisanie"/>
+        <!--android:icon="@drawable/ic_menu_slideshow" />-->
+        <item
+            android:id="@+id/maps_univer"
+            android:title="@string/maps_univer"/>
+        <!--android:icon="@drawable/ic_menu_manage"/>-->
+        <item
+            android:id="@+id/reiting"
+            android:title="@string/reiting"/>
+        <!--android:icon="@drawable/ic_menu_manage" />-->
+        <item
+            android:id="@+id/stud_samo"
+            android:title="@string/stud_samo"/>
+        android:icon="@drawable/ic_menu_manage" />
+        <item
+            android:id="@+id/korp_and_obch"
+            android:title="@string/korp_and_obch" />
+        android:icon="@drawable/ic_menu_manage"/>
+        <item
+            android:id="@+id/stipendia"
+            android:title="@string/stipendia" />
+        android:icon="@drawable/ic_menu_manage"/>
+        <item
+            android:id="@+id/portfolio"
+            android:title="@string/Portfolio"/>
+        android:icon="@drawable/ic_menu_manage" />
+        <item
+            android:id="@+id/history"
+            android:title="@string/history"/>
+        <!--android:icon="@drawable/ic_menu_manage"/>-->
+        <item
+            android:id="@+id/terror"
+            android:title="@string/terror"/>
+        <!--android:icon="@drawable/ic_menu_manage"/>-->
+
+
+    </group>
+
+    <item android:title=" ">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:title="@string/settings"/>
+            <!--android:icon="@drawable/ic_menu_manage"/>-->
+            <item
+                android:id="@+id/About_the_application"
+                android:title="@string/About_the_application"/>
+            <!--android:icon="@drawable/ic_menu_share"/>-->
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Справочник ВГУИТ</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="news">Новости</string>
+    <string name="fic">Факультеты институты и кафедры</string>
+    <string name="raspisanie">Расписание</string>
+    <string name="maps_univer">Карта университета</string>
+    <string name="reiting">Рейтинг</string>
+    <string name="stud_samo">Студенческое самоуправление</string>
+    <string name="korp_and_obch">Корпуса и общежития</string>
+    <string name="stipendia">Стипендия</string>
+    <string name="Portfolio">Портфолио</string>
+    <string name="history">История ВГУИТ</string>
+    <string name="terror">Терроризм и коррупция</string>
+    <string name="settings">Настройки</string>
+    <string name="About_the_application">О программе</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
